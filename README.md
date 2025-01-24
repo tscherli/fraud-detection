@@ -6,4 +6,4 @@ Can you detect fraud from customer transactions?
 
 The data set contains of real-world e-commerce transactions with lots of nice features to experiment with. So let's get started!
 
-See further details on IEEE-CIS Fraud Detection
+See further details on [IEEE-CIS Fraud Detection](https://www.kaggle.com/competitions/ieee-fraud-detection)
